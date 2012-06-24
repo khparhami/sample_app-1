@@ -1,3 +1,3 @@
 # Ruby on Rails Tutorial : sample application
 
-This is the sample application for Ali learning Ruby on Rails
+This is the sample application for Ali and Khashayar learning Ruby on Rails
